@@ -1,8 +1,8 @@
-# # Lucas Soares 👨🏽‍💻
+# 👨🏽‍💻 Lucas Soares 
 
 **`Desenvolvedor Python`**
 
-Sou um **Desenvolvedor Python Back-end** com expertise em **Inteligência Artificial** e **Visão Computacional**. Em meus 9 meses de experiência prática, atuo na concepção e implementação de sistemas, além de focar na **engenharia de dados**, que inclui a manipulação e extração de informações de mídias para modelos de IA.
+Me chamo Lucas Soares e sou um **Desenvolvedor Python Back-end** com expertise em **Inteligência Artificial** e **Visão Computacional**. Em meus 9 meses de experiência prática, atuo na concepção e implementação de sistemas, além de focar na **engenharia de dados**, que inclui a manipulação e extração de informações de mídias para modelos de IA.
 
 Possuo proficiência em **automação e web scraping**, utilizando bibliotecas como **Selenium** e **Pandas** para processamento e análise de dados. No campo da IA, trabalho com **PyTorch** para treinamento de modelos e tenho experiência com **YOLO** para detecção de objetos.
 
