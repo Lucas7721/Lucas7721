@@ -57,14 +57,14 @@ Minhas competências abrangem sólidos conhecimentos em **Bancos de Dados**, **A
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lucas7721&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://my-status-lucas-projects-383d7e29.vercel.app/api?username=Lucas7721&show_icons=true&count_private=true&include_all_commits=true&theme=dark&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas7721&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://my-status-lucas-projects-383d7e29.vercel.app/api/top-langs/?username=Lucas7721&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
