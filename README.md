@@ -20,14 +20,14 @@ Minhas competências abrangem sólidos conhecimentos em **Bancos de Dados**, **A
     <img
       alt="Total de estrelas"
       title="Total de estrelas GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/Lucas7721?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+      src="https://custom-icon-badges.demolab.com/github/stars/Lucas7721?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas&cache_seconds=21600"
     />
   </a>
   <a href="https://github.com/Lucas7721?tab=followers">
     <img
       alt="Seguidores"
       title="Me siga no GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/Lucas7721?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+      src="https://custom-icon-badges.demolab.com/github/followers/Lucas7721?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&cache_seconds=21600"
     />
   </a>
 </div>
