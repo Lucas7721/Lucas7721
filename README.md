@@ -14,11 +14,11 @@
   <a href="https://www.linkedin.com/in/lucas-soares-77054b30b/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Lucas7721?tab=repositories&sort=stargazers">
-    <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/Lucas7721?color=3b7f3b&style=for-the-badge&labelColor=2f6630&logo=star&label=Stars" />
+  <a href="https://github.com/Lucas7721">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Lucas7721?tab=followers">
-    <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/Lucas7721?color=1f6feb&labelColor=1158c7&style=for-the-badge&logo=github&label=Followers&logoColor=white" />
+  <a href="https://github.com/Lucas7721?tab=repositories">
+    <img alt="Repositories" src="https://img.shields.io/badge/Repositories-2F855A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -40,31 +40,37 @@ Também venho ampliando bastante meu repertório em frontend e desktop apps com 
 - apps web e desktop com React, TypeScript, Vite e Electron
 - integrações com bancos de dados relacionais e NoSQL
 
-## Stack principal
+## Tecnologias e ferramentas
 
-### Backend, dados e automação
+### Linguagens e backend
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img alt="Patchright" src="https://img.shields.io/badge/Patchright-1F2937?style=for-the-badge" />
-  <img alt="Camoufox" src="https://img.shields.io/badge/Camoufox-0F766E?style=for-the-badge" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### Frontend e aplicações
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img alt="Electron" src="https://img.shields.io/badge/Electron-1F1F1F?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
+</p>
+
+### Automação e web scraping
+
+<p>
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img alt="Patchright" src="https://img.shields.io/badge/Patchright-1F2937?style=for-the-badge" />
+  <img alt="Camoufox" src="https://img.shields.io/badge/Camoufox-0F766E?style=for-the-badge" />
+  <img alt="Web Scraping" src="https://img.shields.io/badge/Web%20Scraping-334155?style=for-the-badge" />
 </p>
 
 ### IA, visão computacional e OCR
@@ -74,7 +80,6 @@ Também venho ampliando bastante meu repertório em frontend e desktop apps com 
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img alt="YOLO" src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge" />
   <img alt="PaddleOCR" src="https://img.shields.io/badge/PaddleOCR-FF6A00?style=for-the-badge" />
-  <img alt="FFmpeg" src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
 </p>
 
 ### Bancos e busca
@@ -87,34 +92,55 @@ Também venho ampliando bastante meu repertório em frontend e desktop apps com 
   <img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
 </p>
 
-### Ferramentas do dia a dia
+### Dados e análise
+
+<p>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img alt="OpenPyXL" src="https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img alt="Telethon" src="https://img.shields.io/badge/Telethon-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
+</p>
+
+### Processamento de mídia
+
+<p>
+  <img alt="FFmpeg" src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+</p>
+
+### Containers
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### Versionamento
+
+<p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### Gerenciamento de dependências
+
+<p>
+  <img alt="Poetry" src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
+
+### Ferramentas de desenvolvimento
+
+<p>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### IDEs
+
+<p>
   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
   <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
   <img alt="Code::Blocks" src="https://img.shields.io/badge/Code::Blocks-111111?style=for-the-badge" />
-</p>
-
-### Outras linguagens
-
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
-## Outras ferramentas com as quais trabalho
-
-<p>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img alt="OpenPyXL" src="https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img alt="Telethon" src="https://img.shields.io/badge/Telethon-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img alt="Poetry" src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" />
-  <img alt="Web Scraping" src="https://img.shields.io/badge/Web%20Scraping-334155?style=for-the-badge" />
 </p>
 
 ## Estatísticas
