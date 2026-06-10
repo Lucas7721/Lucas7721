@@ -143,6 +143,23 @@ Também venho ampliando bastante meu repertório em frontend e desktop apps com 
   <img alt="Code::Blocks" src="https://img.shields.io/badge/Code::Blocks-111111?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Lucas7721/Lucas7721/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Lucas7721/Lucas7721/output/github-snake.svg"
+    />
+    <img
+      alt="Animação de cobrinha das contribuições do GitHub"
+      src="https://raw.githubusercontent.com/Lucas7721/Lucas7721/output/github-snake-dark.svg"
+    />
+  </picture>
+</p>
+
 ## Estatísticas
 
 <p>
