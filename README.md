@@ -147,15 +147,15 @@ Também venho ampliando bastante meu repertório em frontend e desktop apps com 
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Lucas7721/Lucas7721/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Lucas7721/Lucas7721/output/pacman-contribution-graph-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Lucas7721/Lucas7721/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/Lucas7721/Lucas7721/output/pacman-contribution-graph.svg"
     />
     <img
-      alt="Animação de cobrinha das contribuições do GitHub"
-      src="https://raw.githubusercontent.com/Lucas7721/Lucas7721/output/github-snake-dark.svg"
+      alt="Animação do Pac-Man nas contribuições do GitHub"
+      src="https://raw.githubusercontent.com/Lucas7721/Lucas7721/output/pacman-contribution-graph.svg"
     />
   </picture>
 </p>
